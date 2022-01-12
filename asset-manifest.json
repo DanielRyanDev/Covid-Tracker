@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/DanielRyanDev/Covid-Tracker.git/static/css/main.4fdeb607.css",
-    "main.js": "/DanielRyanDev/Covid-Tracker.git/static/js/main.54aaf983.js",
-    "static/js/787.0d2eade3.chunk.js": "/DanielRyanDev/Covid-Tracker.git/static/js/787.0d2eade3.chunk.js",
-    "static/media/MrTVac.png": "/DanielRyanDev/Covid-Tracker.git/static/media/MrTVac.c5331d3cb0cb532a4626.png",
-    "index.html": "/DanielRyanDev/Covid-Tracker.git/index.html",
-    "main.4fdeb607.css.map": "/DanielRyanDev/Covid-Tracker.git/static/css/main.4fdeb607.css.map",
-    "main.54aaf983.js.map": "/DanielRyanDev/Covid-Tracker.git/static/js/main.54aaf983.js.map",
-    "787.0d2eade3.chunk.js.map": "/DanielRyanDev/Covid-Tracker.git/static/js/787.0d2eade3.chunk.js.map"
+    "main.css": "./static/css/main.4fdeb607.css",
+    "main.js": "./static/js/main.6e21831a.js",
+    "static/js/787.0d2eade3.chunk.js": "./static/js/787.0d2eade3.chunk.js",
+    "static/media/MrTVac.png": "./static/media/MrTVac.c5331d3cb0cb532a4626.png",
+    "index.html": "./index.html",
+    "main.4fdeb607.css.map": "./static/css/main.4fdeb607.css.map",
+    "main.6e21831a.js.map": "./static/js/main.6e21831a.js.map",
+    "787.0d2eade3.chunk.js.map": "./static/js/787.0d2eade3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4fdeb607.css",
-    "static/js/main.54aaf983.js"
+    "static/js/main.6e21831a.js"
   ]
 }
