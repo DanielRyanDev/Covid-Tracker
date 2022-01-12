@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@500&display=swap');
+
+html, body {
+  height: 100%
+}
+
+body {
+  height: 100%;
+  margin: 0;
+  background-color: #444444;
+}
+
+#title {
+  background-color: #171717;
+  padding: 50px;
+  margin: 0;
+  font-size: 70px;
+  color: #DA0037;
+  font-family: 'Raleway', sans-serif;
+  text-decoration: underline double;
+  text-shadow:  -5px -10px 5px #171717;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+  color: #EDEDED;
+  font-family: 'Be Vietnam Pro', sans-serif;
+  text-shadow:  -3px -2px 0px #171717;
+}
+
+.image {
+  float: right;
+  margin-bottom: 0px;
+  width: 775px;
+  height: 450px;
+  position: fixed;
+  bottom:0;
+  right:0;
+}
